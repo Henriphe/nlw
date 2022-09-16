@@ -1,5 +1,17 @@
-# <NLW/>
-### Primeira versão do NLW Rocketseat que participei.
-### Neste projeto foi desenvolvido um Game-hub, com alguns jogos, streamers e minhas redes.
-### Dando início aos estudos de desenvolvimento Front-End.
-##### 15/09/2022
+# NLW eSports
+
+[preview](./.github/preview.png)
+
+>Trilha Explorer
+
+Projeto construído no evento Next Level Week da Rocketseat.
+
+[Clique aqui para acessar](https://henriphe.github.io/nlw-esports-explorer/)
+
+## Tecnologias 
+-HTML;
+-CSS;
+-Git e Github;
+
+## Contato
+paulohenriquedelima@gmail.com
